@@ -1,0 +1,10 @@
+[Day-01] : Create directory structure (My Portfolio).
+Create a NPM Project.
+-- npx create-react-app my-portfolio
+-- cd my-portfolio/
+Install All Dependancies.
+-- npm install
+Run the Project.
+-- npm start
+
+[Day-02] : Create and Commit the Code into Github.
