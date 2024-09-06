@@ -10,3 +10,7 @@ Run the Project.
 [Day-02] : Create and Commit the Code into Github.
 
 [Day-03] : Remove Unnecessary Files & Codes.
+
+[Day-04] : Install Tailwind CSS.
+-- npm install -D tailwindcss
+-- npx tailwindcss init
