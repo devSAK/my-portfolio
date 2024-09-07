@@ -16,3 +16,5 @@ Run the Project.
 -- npx tailwindcss init
 
 [Day-05] : Create NavBar Component.
+
+[Day-06] : Added Others Component (Banner, Features, Projects, Resume & Testimonial).
