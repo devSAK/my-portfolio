@@ -21,3 +21,9 @@ Run the Project.
 
 [Day-07] : Added Scroll Functionality.
 -- npm install react-scroll
+
+[Day-08] : Added Banner Component UI.
+Install Library for Type Writer.
+-- npm install react-simple-typewriter
+Install Library for Icons.
+-- npm install react-icons --save

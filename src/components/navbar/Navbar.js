@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 
 const Navbar = () => {
   return (
-    <div className="w-full h-20 mx-auto flex justify-between items-center font-titleFont">
+    <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont">
       <div className="flex">
         <img src={logo} alt="logo" className="w-11 h-11" />
         <h3 className="ml-2 mt-2">devSAK</h3>
@@ -15,7 +15,7 @@ const Navbar = () => {
           {navLinksdata.map((item) => (
             <li
               key={item._id}
-              className="text-base font-normal text-gray-400 tracking-wide cursor-auto hover:text-designColor duration-300"
+              className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300"
             >
               <Link
                 activeClass="active"
