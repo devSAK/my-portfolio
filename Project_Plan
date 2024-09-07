@@ -18,3 +18,6 @@ Run the Project.
 [Day-05] : Create NavBar Component.
 
 [Day-06] : Added Others Component (Banner, Features, Projects, Resume & Testimonial).
+
+[Day-07] : Added Scroll Functionality.
+-- npm install react-scroll
