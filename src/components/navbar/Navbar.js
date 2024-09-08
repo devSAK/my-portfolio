@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont">
       <div className="flex">
         <img src={logo} alt="logo" className="w-11 h-11" />
-        <h3 className="ml-2 mt-2">devSAK</h3>
+        <h3 className="ml-2 mt-2 font-bold">devSAK</h3>
       </div>
       <div>
         <ul className="flex items-center gap-10">
